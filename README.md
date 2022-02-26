@@ -13,7 +13,8 @@ Live 0: Introdução ao python 22/02/2020
 - Live livre, sem roteiro
 - Orientação da live: Classes e POO
 - Referências:
-  - https://www.youtube.com/watch?v=SQXmC6PbZWk
+- <https://www.youtube.com/watch?v=SQXmC6PbZWk>
+  > Quem não participou da live pode assistir a live do [Eduardo Mendes](https://www.youtube.com/c/Dunossauro), que está na referência, super concisa e conteúdo maravilhoso.)
 
 Live 1: Introdução a REST API's 25/02/2020
 
