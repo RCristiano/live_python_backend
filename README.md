@@ -8,9 +8,8 @@ Live 0: Introdução ao python 22/02/2022
   - Como usar o REPL
   - Um joguinho simples em Python
 
-1ª Live de sexta: 25/02/2022
+1ª Live de sexta (tema livre): 25/02/2022
 
-- Live livre, sem roteiro
 - Orientação da live: Classes e POO
 - Referências:
 - <https://www.youtube.com/watch?v=SQXmC6PbZWk>
@@ -18,8 +17,15 @@ Live 0: Introdução ao python 22/02/2022
 
 Live 1: Introdução a REST API's 23/03/2022
 
-- [Roteiro](live_1/README.md)
-- Assuntos abortados
-  - O que é REST API?
-  - Vamos escolher um framework
-    - Principais frameworks
+- O que são REST API's
+  - [slides](<live_1/APIs\ REST.odp>)
+  - [demonstração](live_1/REST_Pokemon.ipynb)
+    - Bonus:
+      - pandas normalize (convertendo as requisições em dataframes)
+      - Asyncio (consumindo a api de forma assíncrona)
+
+2ª Live de sexta (tema livre): 25/03/2022
+
+- Orientação da live: [pip_search](https://github.com/RCristiano/pip_search) (projeto open source)
+- Testes unitários
+- Ideias e planejamento das próximas lives
